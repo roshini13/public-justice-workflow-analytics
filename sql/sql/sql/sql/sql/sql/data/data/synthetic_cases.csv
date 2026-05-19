@@ -1,0 +1,11 @@
+case_id,case_type,received_date,closed_date,current_status,location_id,priority_level
+C10001,Intake Review,2024-01-12,2024-02-03,Closed,L01,Standard
+C10002,Compliance Review,2024-01-15,,Open,L02,High
+C10003,Documentation Review,2024-02-01,2024-02-28,Closed,L03,Standard
+C10004,Final Decision Review,2024-02-10,,Pending Review,L04,High
+C10005,Intake Review,2024-03-05,2024-03-18,Closed,L05,Low
+C10006,Compliance Review,2024-03-12,,Open,L01,High
+C10007,Documentation Review,2024-04-01,2024-04-25,Closed,L02,Standard
+C10008,Supervisor Review,2024-04-08,,Pending Review,L03,High
+C10009,Final Decision Review,2024-05-02,2024-05-30,Closed,L04,Standard
+C10010,Intake Review,2024-05-15,,Open,L05,High
