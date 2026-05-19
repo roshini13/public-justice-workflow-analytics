@@ -22,6 +22,8 @@ This project simulates that type of workflow environment and answers questions s
 
 This project uses only synthetic mock data. No real public justice records, state agency data, case information, staff information, or personally identifiable information is included.
 
+This repository is a shareable portfolio version of a larger case flow analytics concept. The sample data included here is intentionally small and fully synthetic so reviewers can understand the database design, ETL logic, data quality checks, and SQL analysis without using real or sensitive records.
+
 All case identifiers, dates, locations, workflow stages, and assignments were created only for portfolio demonstration purposes.
 
 ## Tools Used
