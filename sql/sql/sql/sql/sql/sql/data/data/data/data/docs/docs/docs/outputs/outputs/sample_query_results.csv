@@ -1,0 +1,7 @@
+metric_category,metric_name,sample_value,notes
+Throughput,Average Processing Days,27.4,Synthetic sample result
+Backlog,Open Cases,3,Synthetic sample result
+Backlog,Pending Review Cases,2,Synthetic sample result
+Workflow Delay,Longest Average Stage,Supervisor Review,Synthetic sample result
+Priority Monitoring,High Priority Open Cases,3,Synthetic sample result
+Volume,Highest Case Volume Region,North Region,Synthetic sample result
