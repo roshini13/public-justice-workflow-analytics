@@ -1,0 +1,24 @@
+event_id,case_id,workflow_stage,stage_start_date,stage_end_date,assigned_unit
+E20001,C10001,Intake,2024-01-12,2024-01-14,Intake Unit
+E20002,C10001,Initial Review,2024-01-15,2024-01-22,Review Unit
+E20003,C10001,Final Decision,2024-01-23,2024-02-03,Decision Unit
+E20004,C10002,Intake,2024-01-15,2024-01-18,Intake Unit
+E20005,C10002,Documentation Check,2024-01-19,,Documentation Unit
+E20006,C10003,Intake,2024-02-01,2024-02-04,Intake Unit
+E20007,C10003,Supervisor Review,2024-02-05,2024-02-20,Supervisor Unit
+E20008,C10003,Final Decision,2024-02-21,2024-02-28,Decision Unit
+E20009,C10004,Intake,2024-02-10,2024-02-13,Intake Unit
+E20010,C10004,Supervisor Review,2024-02-14,,Supervisor Unit
+E20011,C10005,Intake,2024-03-05,2024-03-08,Intake Unit
+E20012,C10005,Final Decision,2024-03-09,2024-03-18,Decision Unit
+E20013,C10006,Intake,2024-03-12,2024-03-16,Intake Unit
+E20014,C10006,Documentation Check,2024-03-17,,Documentation Unit
+E20015,C10007,Intake,2024-04-01,2024-04-05,Intake Unit
+E20016,C10007,Initial Review,2024-04-06,2024-04-15,Review Unit
+E20017,C10007,Final Decision,2024-04-16,2024-04-25,Decision Unit
+E20018,C10008,Intake,2024-04-08,2024-04-11,Intake Unit
+E20019,C10008,Supervisor Review,2024-04-12,,Supervisor Unit
+E20020,C10009,Intake,2024-05-02,2024-05-07,Intake Unit
+E20021,C10009,Final Decision,2024-05-08,2024-05-30,Decision Unit
+E20022,C10010,Intake,2024-05-15,2024-05-20,Intake Unit
+E20023,C10010,Documentation Check,2024-05-21,,Documentation Unit
