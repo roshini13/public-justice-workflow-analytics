@@ -15,9 +15,8 @@ This project simulates that type of workflow environment and answers questions s
 1. Which workflow stages have the longest average processing time?
 2. Which regions show higher backlog levels?
 3. How many high priority cases remain open?
-4. Are there invalid or incomplete records affecting reporting reliability?
-5. How can cleaned workflow data support operational decision making?
-
+4. Are there invalid, incomplete, or dirty records affecting reporting reliability, and how can those issues be identified and resolved?
+5. How can cleaned workflow data and reproducible SQL methods support operational decision making, policy development, and program scoping?
 ## Data Privacy Statement
 
 This project uses only synthetic mock data. No real public justice records, state agency data, case information, staff information, or personally identifiable information is included.
