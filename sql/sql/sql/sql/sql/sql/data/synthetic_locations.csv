@@ -1,0 +1,6 @@
+location_id,region,office_type
+L01,North Region,Regional Office
+L02,South Region,Regional Office
+L03,Central Region,Administrative Office
+L04,West Region,Field Office
+L05,East Region,Field Office
